@@ -320,3 +320,9 @@ section {
     font-weight: 500;
     text-decoration: none;
 }
+@media (max-width:991px) {
+    header, 
+    header.sticky {
+        padding: 10px 20px;
+    }
+}
